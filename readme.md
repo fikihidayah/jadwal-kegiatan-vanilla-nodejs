@@ -86,7 +86,7 @@ Menambah satu data (POST)
 
 Sampel data untuk mengirimkan data lewat **body** :
 
-```json
+```javascript
 // Header set | Content-Type:application-json
 // /orang
 {
